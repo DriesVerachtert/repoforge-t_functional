@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Errno"
-t_installPackage perl-Errno
+t_InstallPackage perl-Errno

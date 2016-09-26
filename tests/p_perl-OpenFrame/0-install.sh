@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-OpenFrame"
-t_installPackage perl-OpenFrame
+t_InstallPackage perl-OpenFrame

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Class-MOP"
-t_installPackage perl-Class-MOP
+t_InstallPackage perl-Class-MOP

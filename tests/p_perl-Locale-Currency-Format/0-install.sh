@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Locale-Currency-Format"
-t_installPackage perl-Locale-Currency-Format
+t_InstallPackage perl-Locale-Currency-Format

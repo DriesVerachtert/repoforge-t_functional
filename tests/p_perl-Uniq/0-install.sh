@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Uniq"
-t_installPackage perl-Uniq
+t_InstallPackage perl-Uniq

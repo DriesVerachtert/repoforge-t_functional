@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Locale-SubCountry"
-t_installPackage perl-Locale-SubCountry
+t_InstallPackage perl-Locale-SubCountry

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Sort-Naturally"
-t_installPackage perl-Sort-Naturally
+t_InstallPackage perl-Sort-Naturally

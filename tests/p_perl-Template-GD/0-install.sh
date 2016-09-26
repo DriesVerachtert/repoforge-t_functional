@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Template-GD"
-t_installPackage perl-Template-GD
+t_InstallPackage perl-Template-GD

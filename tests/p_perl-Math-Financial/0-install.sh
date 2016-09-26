@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Math-Financial"
-t_installPackage perl-Math-Financial
+t_InstallPackage perl-Math-Financial

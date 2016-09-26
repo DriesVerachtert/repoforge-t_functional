@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Filesys-SmbClient"
-t_installPackage perl-Filesys-SmbClient
+t_InstallPackage perl-Filesys-SmbClient

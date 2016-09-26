@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Audio-TagLib"
-t_installPackage perl-Audio-TagLib
+t_InstallPackage perl-Audio-TagLib

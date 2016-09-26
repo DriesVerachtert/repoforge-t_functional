@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Crypt-Mimetic"
-t_installPackage perl-Crypt-Mimetic
+t_InstallPackage perl-Crypt-Mimetic

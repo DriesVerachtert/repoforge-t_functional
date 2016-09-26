@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Test-TableDriven"
-t_installPackage perl-Test-TableDriven
+t_InstallPackage perl-Test-TableDriven

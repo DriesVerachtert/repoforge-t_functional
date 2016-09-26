@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Algorithm-Annotate"
-t_installPackage perl-Algorithm-Annotate
+t_InstallPackage perl-Algorithm-Annotate

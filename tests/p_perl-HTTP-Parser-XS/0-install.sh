@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-HTTP-Parser-XS"
-t_installPackage perl-HTTP-Parser-XS
+t_InstallPackage perl-HTTP-Parser-XS

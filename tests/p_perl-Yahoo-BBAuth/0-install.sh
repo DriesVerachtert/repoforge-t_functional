@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Yahoo-BBAuth"
-t_installPackage perl-Yahoo-BBAuth
+t_InstallPackage perl-Yahoo-BBAuth

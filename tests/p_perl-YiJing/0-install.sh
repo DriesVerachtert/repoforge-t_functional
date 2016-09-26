@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-YiJing"
-t_installPackage perl-YiJing
+t_InstallPackage perl-YiJing

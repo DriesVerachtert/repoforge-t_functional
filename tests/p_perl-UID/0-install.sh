@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-UID"
-t_installPackage perl-UID
+t_InstallPackage perl-UID

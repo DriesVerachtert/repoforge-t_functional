@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Unicode-Normalize"
-t_installPackage perl-Unicode-Normalize
+t_InstallPackage perl-Unicode-Normalize

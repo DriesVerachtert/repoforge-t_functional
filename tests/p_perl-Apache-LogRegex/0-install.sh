@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Apache-LogRegex"
-t_installPackage perl-Apache-LogRegex
+t_InstallPackage perl-Apache-LogRegex

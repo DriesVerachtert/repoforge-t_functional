@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Template-Toolkit"
-t_installPackage perl-Template-Toolkit
+t_InstallPackage perl-Template-Toolkit

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Acme-Chef"
-t_installPackage perl-Acme-Chef
+t_InstallPackage perl-Acme-Chef

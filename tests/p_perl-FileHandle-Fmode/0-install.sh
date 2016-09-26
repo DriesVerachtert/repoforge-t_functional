@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-FileHandle-Fmode"
-t_installPackage perl-FileHandle-Fmode
+t_InstallPackage perl-FileHandle-Fmode

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tangram"
-t_installPackage perl-Tangram
+t_InstallPackage perl-Tangram

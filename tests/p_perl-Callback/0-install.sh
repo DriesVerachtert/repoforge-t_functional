@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Callback"
-t_installPackage perl-Callback
+t_InstallPackage perl-Callback

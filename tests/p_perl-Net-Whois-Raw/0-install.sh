@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Net-Whois-Raw"
-t_installPackage perl-Net-Whois-Raw
+t_InstallPackage perl-Net-Whois-Raw

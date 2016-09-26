@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-AI-Menu"
-t_installPackage perl-AI-Menu
+t_InstallPackage perl-AI-Menu

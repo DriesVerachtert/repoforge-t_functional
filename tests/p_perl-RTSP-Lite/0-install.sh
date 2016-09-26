@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-RTSP-Lite"
-t_installPackage perl-RTSP-Lite
+t_InstallPackage perl-RTSP-Lite

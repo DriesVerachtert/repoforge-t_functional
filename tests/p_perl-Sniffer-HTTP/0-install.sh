@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Sniffer-HTTP"
-t_installPackage perl-Sniffer-HTTP
+t_InstallPackage perl-Sniffer-HTTP

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-DNS-BL"
-t_installPackage perl-DNS-BL
+t_InstallPackage perl-DNS-BL

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Math-Geometry-Planar-Offset"
-t_installPackage perl-Math-Geometry-Planar-Offset
+t_InstallPackage perl-Math-Geometry-Planar-Offset

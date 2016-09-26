@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Module-Find"
-t_installPackage perl-Module-Find
+t_InstallPackage perl-Module-Find

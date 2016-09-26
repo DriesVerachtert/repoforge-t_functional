@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Data-HexDump"
-t_installPackage perl-Data-HexDump
+t_InstallPackage perl-Data-HexDump

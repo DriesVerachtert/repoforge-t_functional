@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Apache-Session-Wrapper"
-t_installPackage perl-Apache-Session-Wrapper
+t_InstallPackage perl-Apache-Session-Wrapper

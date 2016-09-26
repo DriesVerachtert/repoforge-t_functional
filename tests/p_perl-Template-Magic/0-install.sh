@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Template-Magic"
-t_installPackage perl-Template-Magic
+t_InstallPackage perl-Template-Magic

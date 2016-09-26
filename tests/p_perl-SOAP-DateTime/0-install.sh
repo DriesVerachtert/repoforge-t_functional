@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-SOAP-DateTime"
-t_installPackage perl-SOAP-DateTime
+t_InstallPackage perl-SOAP-DateTime

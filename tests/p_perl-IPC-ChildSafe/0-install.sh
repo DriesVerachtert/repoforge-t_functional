@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-IPC-ChildSafe"
-t_installPackage perl-IPC-ChildSafe
+t_InstallPackage perl-IPC-ChildSafe

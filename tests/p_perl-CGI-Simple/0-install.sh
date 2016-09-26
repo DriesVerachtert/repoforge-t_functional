@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-CGI-Simple"
-t_installPackage perl-CGI-Simple
+t_InstallPackage perl-CGI-Simple

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-POE-Component-SimpleDBI"
-t_installPackage perl-POE-Component-SimpleDBI
+t_InstallPackage perl-POE-Component-SimpleDBI

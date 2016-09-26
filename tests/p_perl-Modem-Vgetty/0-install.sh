@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Modem-Vgetty"
-t_installPackage perl-Modem-Vgetty
+t_InstallPackage perl-Modem-Vgetty

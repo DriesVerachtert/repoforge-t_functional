@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Curses-UI"
-t_installPackage perl-Curses-UI
+t_InstallPackage perl-Curses-UI

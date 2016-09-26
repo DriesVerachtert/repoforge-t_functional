@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Term-Size"
-t_installPackage perl-Term-Size
+t_InstallPackage perl-Term-Size

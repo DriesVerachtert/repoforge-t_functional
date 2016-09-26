@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-IMAP-Admin"
-t_installPackage perl-IMAP-Admin
+t_InstallPackage perl-IMAP-Admin

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Class-Autouse"
-t_installPackage perl-Class-Autouse
+t_InstallPackage perl-Class-Autouse

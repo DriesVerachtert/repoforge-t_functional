@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Cache-FastMmap"
-t_installPackage perl-Cache-FastMmap
+t_InstallPackage perl-Cache-FastMmap

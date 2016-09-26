@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Text-MacroScript"
-t_installPackage perl-Text-MacroScript
+t_InstallPackage perl-Text-MacroScript

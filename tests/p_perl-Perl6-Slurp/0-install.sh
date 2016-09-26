@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Perl6-Slurp"
-t_installPackage perl-Perl6-Slurp
+t_InstallPackage perl-Perl6-Slurp

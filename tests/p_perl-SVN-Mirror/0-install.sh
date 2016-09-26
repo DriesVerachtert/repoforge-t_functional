@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-SVN-Mirror"
-t_installPackage perl-SVN-Mirror
+t_InstallPackage perl-SVN-Mirror

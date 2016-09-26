@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-TFTP"
-t_installPackage perl-TFTP
+t_InstallPackage perl-TFTP

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-VCS"
-t_installPackage perl-VCS
+t_InstallPackage perl-VCS

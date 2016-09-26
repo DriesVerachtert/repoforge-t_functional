@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-SHA256"
-t_installPackage perl-SHA256
+t_InstallPackage perl-SHA256

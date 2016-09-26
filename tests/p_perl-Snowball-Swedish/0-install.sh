@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Snowball-Swedish"
-t_installPackage perl-Snowball-Swedish
+t_InstallPackage perl-Snowball-Swedish

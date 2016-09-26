@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Data-Inherited"
-t_installPackage perl-Data-Inherited
+t_InstallPackage perl-Data-Inherited

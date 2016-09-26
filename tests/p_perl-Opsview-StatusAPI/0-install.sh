@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Opsview-StatusAPI"
-t_installPackage perl-Opsview-StatusAPI
+t_InstallPackage perl-Opsview-StatusAPI

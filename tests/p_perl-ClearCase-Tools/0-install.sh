@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-ClearCase-Tools"
-t_installPackage perl-ClearCase-Tools
+t_InstallPackage perl-ClearCase-Tools

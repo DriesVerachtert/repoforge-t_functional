@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-CSS-DOM"
-t_installPackage perl-CSS-DOM
+t_InstallPackage perl-CSS-DOM

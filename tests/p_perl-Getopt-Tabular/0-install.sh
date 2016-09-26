@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Getopt-Tabular"
-t_installPackage perl-Getopt-Tabular
+t_InstallPackage perl-Getopt-Tabular

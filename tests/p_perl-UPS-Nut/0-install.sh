@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-UPS-Nut"
-t_installPackage perl-UPS-Nut
+t_InstallPackage perl-UPS-Nut

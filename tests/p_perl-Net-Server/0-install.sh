@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Net-Server"
-t_installPackage perl-Net-Server
+t_InstallPackage perl-Net-Server

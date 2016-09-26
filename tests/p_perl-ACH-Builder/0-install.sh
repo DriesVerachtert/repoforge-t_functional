@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-ACH-Builder"
-t_installPackage perl-ACH-Builder
+t_InstallPackage perl-ACH-Builder

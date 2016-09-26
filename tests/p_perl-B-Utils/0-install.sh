@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-B-Utils"
-t_installPackage perl-B-Utils
+t_InstallPackage perl-B-Utils

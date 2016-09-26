@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-File-Iterator"
-t_installPackage perl-File-Iterator
+t_InstallPackage perl-File-Iterator

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-vault"
-t_installPackage perl-vault
+t_InstallPackage perl-vault

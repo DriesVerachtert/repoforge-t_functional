@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-YAML-LibYAML"
-t_installPackage perl-YAML-LibYAML
+t_InstallPackage perl-YAML-LibYAML

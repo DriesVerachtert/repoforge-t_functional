@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-HTML-SBC"
-t_installPackage perl-HTML-SBC
+t_InstallPackage perl-HTML-SBC

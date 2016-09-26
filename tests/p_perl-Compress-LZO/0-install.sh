@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Compress-LZO"
-t_installPackage perl-Compress-LZO
+t_InstallPackage perl-Compress-LZO

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tree-RedBlack"
-t_installPackage perl-Tree-RedBlack
+t_InstallPackage perl-Tree-RedBlack

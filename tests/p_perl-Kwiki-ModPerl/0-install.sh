@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Kwiki-ModPerl"
-t_installPackage perl-Kwiki-ModPerl
+t_InstallPackage perl-Kwiki-ModPerl

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Array-PrintCols"
-t_installPackage perl-Array-PrintCols
+t_InstallPackage perl-Array-PrintCols

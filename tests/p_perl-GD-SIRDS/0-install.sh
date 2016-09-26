@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-GD-SIRDS"
-t_installPackage perl-GD-SIRDS
+t_InstallPackage perl-GD-SIRDS

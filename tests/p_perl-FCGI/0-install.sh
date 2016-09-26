@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-FCGI"
-t_installPackage perl-FCGI
+t_InstallPackage perl-FCGI

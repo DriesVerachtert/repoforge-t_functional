@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Math-BigInteger"
-t_installPackage perl-Math-BigInteger
+t_InstallPackage perl-Math-BigInteger

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-IO-Digest"
-t_installPackage perl-IO-Digest
+t_InstallPackage perl-IO-Digest

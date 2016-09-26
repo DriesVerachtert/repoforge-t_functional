@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tie-Scalar-Timeout"
-t_installPackage perl-Tie-Scalar-Timeout
+t_InstallPackage perl-Tie-Scalar-Timeout

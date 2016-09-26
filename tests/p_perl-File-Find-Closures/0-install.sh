@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-File-Find-Closures"
-t_installPackage perl-File-Find-Closures
+t_InstallPackage perl-File-Find-Closures

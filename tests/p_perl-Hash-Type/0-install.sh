@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Hash-Type"
-t_installPackage perl-Hash-Type
+t_InstallPackage perl-Hash-Type

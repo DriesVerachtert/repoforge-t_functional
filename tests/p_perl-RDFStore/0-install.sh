@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-RDFStore"
-t_installPackage perl-RDFStore
+t_InstallPackage perl-RDFStore

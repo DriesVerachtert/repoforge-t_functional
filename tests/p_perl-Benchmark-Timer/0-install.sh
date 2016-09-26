@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Benchmark-Timer"
-t_installPackage perl-Benchmark-Timer
+t_InstallPackage perl-Benchmark-Timer

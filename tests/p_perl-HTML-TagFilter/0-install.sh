@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-HTML-TagFilter"
-t_installPackage perl-HTML-TagFilter
+t_InstallPackage perl-HTML-TagFilter

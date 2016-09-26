@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-SVG-GD"
-t_installPackage perl-SVG-GD
+t_InstallPackage perl-SVG-GD

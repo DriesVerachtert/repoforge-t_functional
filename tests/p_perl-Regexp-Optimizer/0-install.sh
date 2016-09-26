@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Regexp-Optimizer"
-t_installPackage perl-Regexp-Optimizer
+t_InstallPackage perl-Regexp-Optimizer

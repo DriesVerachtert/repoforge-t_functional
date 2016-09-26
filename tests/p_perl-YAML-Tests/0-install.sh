@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-YAML-Tests"
-t_installPackage perl-YAML-Tests
+t_InstallPackage perl-YAML-Tests

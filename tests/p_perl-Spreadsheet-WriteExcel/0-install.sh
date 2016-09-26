@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Spreadsheet-WriteExcel"
-t_installPackage perl-Spreadsheet-WriteExcel
+t_InstallPackage perl-Spreadsheet-WriteExcel

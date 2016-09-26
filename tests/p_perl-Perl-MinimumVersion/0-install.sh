@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Perl-MinimumVersion"
-t_installPackage perl-Perl-MinimumVersion
+t_InstallPackage perl-Perl-MinimumVersion

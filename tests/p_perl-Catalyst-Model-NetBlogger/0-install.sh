@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Catalyst-Model-NetBlogger"
-t_installPackage perl-Catalyst-Model-NetBlogger
+t_InstallPackage perl-Catalyst-Model-NetBlogger

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-File-PathConvert"
-t_installPackage perl-File-PathConvert
+t_InstallPackage perl-File-PathConvert

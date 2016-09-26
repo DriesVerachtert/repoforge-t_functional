@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-XMLNews-HTMLTemplate"
-t_installPackage perl-XMLNews-HTMLTemplate
+t_InstallPackage perl-XMLNews-HTMLTemplate

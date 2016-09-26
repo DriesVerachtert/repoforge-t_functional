@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Config-Fast"
-t_installPackage perl-Config-Fast
+t_InstallPackage perl-Config-Fast

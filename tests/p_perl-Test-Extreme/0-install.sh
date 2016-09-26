@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Test-Extreme"
-t_installPackage perl-Test-Extreme
+t_InstallPackage perl-Test-Extreme

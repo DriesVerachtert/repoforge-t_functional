@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Image-ExifTool"
-t_installPackage perl-Image-ExifTool
+t_InstallPackage perl-Image-ExifTool

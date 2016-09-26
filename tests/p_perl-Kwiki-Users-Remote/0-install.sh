@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Kwiki-Users-Remote"
-t_installPackage perl-Kwiki-Users-Remote
+t_InstallPackage perl-Kwiki-Users-Remote

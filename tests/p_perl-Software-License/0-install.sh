@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Software-License"
-t_installPackage perl-Software-License
+t_InstallPackage perl-Software-License

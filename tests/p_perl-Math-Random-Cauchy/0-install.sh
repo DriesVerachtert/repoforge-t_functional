@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Math-Random-Cauchy"
-t_installPackage perl-Math-Random-Cauchy
+t_InstallPackage perl-Math-Random-Cauchy

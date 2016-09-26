@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-GStreamer"
-t_installPackage perl-GStreamer
+t_InstallPackage perl-GStreamer

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tie-TransactHash"
-t_installPackage perl-Tie-TransactHash
+t_InstallPackage perl-Tie-TransactHash

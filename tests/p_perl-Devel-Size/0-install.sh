@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Devel-Size"
-t_installPackage perl-Devel-Size
+t_InstallPackage perl-Devel-Size

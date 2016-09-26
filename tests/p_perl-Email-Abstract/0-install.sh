@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Email-Abstract"
-t_installPackage perl-Email-Abstract
+t_InstallPackage perl-Email-Abstract

@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-WebService-MusicBrainz"
-t_installPackage perl-WebService-MusicBrainz
+t_InstallPackage perl-WebService-MusicBrainz

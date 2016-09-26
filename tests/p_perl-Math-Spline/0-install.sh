@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Math-Spline"
-t_installPackage perl-Math-Spline
+t_InstallPackage perl-Math-Spline

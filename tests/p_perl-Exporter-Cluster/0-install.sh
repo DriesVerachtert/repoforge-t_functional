@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Exporter-Cluster"
-t_installPackage perl-Exporter-Cluster
+t_InstallPackage perl-Exporter-Cluster

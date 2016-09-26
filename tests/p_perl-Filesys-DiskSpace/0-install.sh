@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Filesys-DiskSpace"
-t_installPackage perl-Filesys-DiskSpace
+t_InstallPackage perl-Filesys-DiskSpace

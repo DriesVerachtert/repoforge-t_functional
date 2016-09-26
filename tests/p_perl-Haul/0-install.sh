@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Haul"
-t_installPackage perl-Haul
+t_InstallPackage perl-Haul

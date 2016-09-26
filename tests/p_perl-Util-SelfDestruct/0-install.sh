@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Util-SelfDestruct"
-t_installPackage perl-Util-SelfDestruct
+t_InstallPackage perl-Util-SelfDestruct

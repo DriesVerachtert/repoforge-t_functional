@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-ZOOM-IRSpy"
-t_installPackage perl-ZOOM-IRSpy
+t_InstallPackage perl-ZOOM-IRSpy

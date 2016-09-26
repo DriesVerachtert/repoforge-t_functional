@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-TheSchwartz"
-t_installPackage perl-TheSchwartz
+t_InstallPackage perl-TheSchwartz

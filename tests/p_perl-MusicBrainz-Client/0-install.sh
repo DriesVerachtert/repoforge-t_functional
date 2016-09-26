@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-MusicBrainz-Client"
-t_installPackage perl-MusicBrainz-Client
+t_InstallPackage perl-MusicBrainz-Client

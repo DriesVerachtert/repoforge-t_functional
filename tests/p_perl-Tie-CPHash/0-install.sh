@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tie-CPHash"
-t_installPackage perl-Tie-CPHash
+t_InstallPackage perl-Tie-CPHash

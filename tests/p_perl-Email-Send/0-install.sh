@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Email-Send"
-t_installPackage perl-Email-Send
+t_InstallPackage perl-Email-Send

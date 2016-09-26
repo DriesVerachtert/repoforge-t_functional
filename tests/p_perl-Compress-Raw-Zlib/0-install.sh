@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Compress-Raw-Zlib"
-t_installPackage perl-Compress-Raw-Zlib
+t_InstallPackage perl-Compress-Raw-Zlib

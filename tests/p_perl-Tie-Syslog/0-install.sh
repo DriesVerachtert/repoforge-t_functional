@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Tie-Syslog"
-t_installPackage perl-Tie-Syslog
+t_InstallPackage perl-Tie-Syslog

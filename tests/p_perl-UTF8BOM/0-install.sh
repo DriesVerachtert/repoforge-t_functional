@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-UTF8BOM"
-t_installPackage perl-UTF8BOM
+t_InstallPackage perl-UTF8BOM

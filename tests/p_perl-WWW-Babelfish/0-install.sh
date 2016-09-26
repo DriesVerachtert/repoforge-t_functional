@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-WWW-Babelfish"
-t_installPackage perl-WWW-Babelfish
+t_InstallPackage perl-WWW-Babelfish

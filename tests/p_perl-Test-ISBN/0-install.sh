@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Test-ISBN"
-t_installPackage perl-Test-ISBN
+t_InstallPackage perl-Test-ISBN

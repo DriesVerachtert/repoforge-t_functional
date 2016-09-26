@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-MooseX-Traits-Pluggable"
-t_installPackage perl-MooseX-Traits-Pluggable
+t_InstallPackage perl-MooseX-Traits-Pluggable

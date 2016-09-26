@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Moose-Policy"
-t_installPackage perl-Moose-Policy
+t_InstallPackage perl-Moose-Policy

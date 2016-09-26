@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-HTML-Stream"
-t_installPackage perl-HTML-Stream
+t_InstallPackage perl-HTML-Stream

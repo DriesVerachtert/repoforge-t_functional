@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Thread-Tie"
-t_installPackage perl-Thread-Tie
+t_InstallPackage perl-Thread-Tie

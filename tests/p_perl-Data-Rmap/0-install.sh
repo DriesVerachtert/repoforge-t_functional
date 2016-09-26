@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Data-Rmap"
-t_installPackage perl-Data-Rmap
+t_InstallPackage perl-Data-Rmap

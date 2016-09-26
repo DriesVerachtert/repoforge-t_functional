@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Socket-GetAddrinfo"
-t_installPackage perl-Socket-GetAddrinfo
+t_InstallPackage perl-Socket-GetAddrinfo

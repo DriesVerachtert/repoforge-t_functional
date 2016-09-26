@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Games-Dissociate"
-t_installPackage perl-Games-Dissociate
+t_InstallPackage perl-Games-Dissociate

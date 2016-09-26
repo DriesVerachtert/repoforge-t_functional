@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-Kolab-Conf"
-t_installPackage perl-Kolab-Conf
+t_InstallPackage perl-Kolab-Conf

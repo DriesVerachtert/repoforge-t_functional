@@ -2,4 +2,4 @@
 # Author: Dries Verachtert <dries.verachtert@dries.eu>
 
 t_Log "Running $0 - attempting to install perl-File-Mork"
-t_installPackage perl-File-Mork
+t_InstallPackage perl-File-Mork
