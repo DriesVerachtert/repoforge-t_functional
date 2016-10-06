@@ -1,6 +1,5 @@
-#!/bin/sh
-# Author: Dries Verachtert <dries.verachert@dries.eu>
+#!/bin/bash
+# Author: Dries Verachtert <dries.verachtert@dries.eu>
 
-t_Log "Running $0 - attempting to install fann and fann-devel"
-t_InstallPackage fann fann-devel
-
+t_Log "Running $0 - attempting to install fann"
+t_installPackage fann
